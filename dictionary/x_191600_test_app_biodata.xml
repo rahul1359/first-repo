@@ -2,6 +2,7 @@
     <element attributes="live_feed=true" label="biodata" max_length="40" name="x_191600_test_app_biodata" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
         <element label="Contact" max_length="40" name="contact" type="integer"/>
+        <element label="hi" max_length="40" name="hi" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="select user" max_length="32" name="select_user" reference="sys_user" type="reference"/>
