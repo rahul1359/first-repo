@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="royal cyber">c4dd3ab64f232300d85aa7d18110c768</application>
+        <filter/>
+        <name>royal cybers</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_191600_test_app.royal_cyber_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>rishi123</sys_created_by>
+        <sys_created_on>2019-02-14 21:08:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84dd3ab64f232300d85aa7d18110c76a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>royal cybers</sys_name>
+        <sys_package display_value="test app" source="x_191600_test_app">69de38904f232300d85aa7d18110c7c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test app">69de38904f232300d85aa7d18110c7c9</sys_scope>
+        <sys_update_name>sys_ui_module_84dd3ab64f232300d85aa7d18110c76a</sys_update_name>
+        <sys_updated_by>rishi123</sys_updated_by>
+        <sys_updated_on>2019-02-14 21:08:30</sys_updated_on>
+        <table>x_191600_test_app_royal_cyber</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

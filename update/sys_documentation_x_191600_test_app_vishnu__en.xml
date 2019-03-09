@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="vishnu" language="en" table="x_191600_test_app_vishnu">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>vishnu</label>
+            <language>en</language>
+            <name>x_191600_test_app_vishnu</name>
+            <plural>vishnus</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-06 22:18:08</sys_created_on>
+            <sys_id>bd01065c4fa32300d85aa7d18110c7d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>vishnu</sys_name>
+            <sys_package display_value="test app" source="x_191600_test_app">69de38904f232300d85aa7d18110c7c9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test app">69de38904f232300d85aa7d18110c7c9</sys_scope>
+            <sys_update_name>sys_documentation_x_191600_test_app_vishnu__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-06 22:18:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

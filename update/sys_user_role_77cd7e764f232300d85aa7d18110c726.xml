@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_191600_test_app.royal_cyber_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>royal_cyber_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>rishi123</sys_created_by>
+        <sys_created_on>2019-02-14 21:08:29</sys_created_on>
+        <sys_id>77cd7e764f232300d85aa7d18110c726</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_191600_test_app.royal_cyber_user</sys_name>
+        <sys_package display_value="test app" source="x_191600_test_app">69de38904f232300d85aa7d18110c7c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test app">69de38904f232300d85aa7d18110c7c9</sys_scope>
+        <sys_update_name>sys_user_role_77cd7e764f232300d85aa7d18110c726</sys_update_name>
+        <sys_updated_by>rishi123</sys_updated_by>
+        <sys_updated_on>2019-02-14 21:08:29</sys_updated_on>
+    </sys_user_role>
+</record_update>
